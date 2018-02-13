@@ -9,5 +9,5 @@
  cmd command: Python alien_invasion.py <br>
 ## run-time pictures
  before: <br>
- ![image](https://github.com/Robert-xiaoqiang/alien-invasion/raw/master/run time pictuers/beforeGame.jpg)
+ ![image](https://github.com/Robert-xiaoqiang/alien-invasion/raw/master/run_time_pictures/beforeGame.jpg)
  

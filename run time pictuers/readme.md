@@ -1,5 +1,10 @@
-# before game
+## before game
+ beforeGame.jpg <br>
+ wait for clicking Play
 
-# during game
+## during game
+ duringGame.jpg <br>
+ up, down, left, down, space
 
-# after game
+## after game
+  wait for clicking Play

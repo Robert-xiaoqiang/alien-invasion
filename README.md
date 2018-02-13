@@ -8,6 +8,11 @@
  Extract It <br>
  cmd command: Python alien_invasion.py <br>
 ## run-time pictures
- before: <br>
+ ### before: <br>
  ![image](https://github.com/Robert-xiaoqiang/alien-invasion/raw/master/run_time_pictures/beforeGame.jpg)
  
+ ### during: <br>
+ ![image](https://github.com/Robert-xiaoqiang/alien-invasion/raw/master/run_time_pictures/duringGame.jpg)
+ 
+ ### after: <br>
+ ![image](https://github.com/Robert-xiaoqiang/alien-invasion/raw/master/run_time_pictures/afterGame.jpg)

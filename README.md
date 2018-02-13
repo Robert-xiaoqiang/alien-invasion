@@ -6,5 +6,5 @@
 # how to run
  Download the Zip <br>
  Extract It <br>
- Run Python alien_invasion.py <br>
+ cmd command: Python alien_invasion.py <br>
 # run-time pictures
